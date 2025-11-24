@@ -7,7 +7,7 @@ The system uses a **React frontend** and a **FastAPI backend** with an **XGBoost
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Predicts if a user is at **low**, **medium**, or **high** risk of severe postpartum bleeding
 - Easy-to-use interface for entering vital signs and medical history
@@ -16,7 +16,7 @@ The system uses a **React frontend** and a **FastAPI backend** with an **XGBoost
 
 ---
 
-## 🏗️ System Overview
+##  System Overview
 
 - **Frontend:** React  
 - **Backend:** FastAPI  
@@ -26,11 +26,11 @@ The system uses a **React frontend** and a **FastAPI backend** with an **XGBoost
 
 Full system design is available here:
 
-👉 **[`docs/AI-Maama_Documentation.md`](docs/AI-Maama_Documentation.md)**
+ **[`docs/AI-Maama_Documentation.md`](docs/AI-Maama_Documentation.md)**
 
 ---
 
-## 🛠️ Quick Start
+##  Quick Start
 
 ### Clone the repository
 ```bash
