@@ -218,7 +218,7 @@ FastAPI app deployed on a backend server
 
 
 
-React app deployed separately (or same server depending on setup)
+React app deployed separately
 
 
 
