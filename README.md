@@ -28,6 +28,12 @@ Full system design is available here:
 
  **[`docs/AI-Maama_Documentation.md`](docs/AI-Maama_Documentation.md)**
 
+ ##  Presentation Slide
+You can view or download the project slide below:
+
+[SaveHer Presentation Slide](https://github.com/ademipeju/Ai-Maama-Deployed-Model/blob/main/LovableAIPowerpointSlide/SaveHer_presentation_LovableAI.pptx)
+
+
 
 
 ---
