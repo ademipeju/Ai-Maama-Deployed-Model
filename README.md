@@ -28,6 +28,11 @@ Full system design is available here:
 
  **[`docs/AI-Maama_Documentation.md`](docs/AI-Maama_Documentation.md)**
 
+## Live Demo
+You can explore the live web application here: [https://aimaama.netlify.app/](https://aimaama.netlify.app/)
+
+
+
 ---
 
 ##  Quick Start
